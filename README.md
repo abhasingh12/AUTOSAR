@@ -3,7 +3,8 @@
 
 
 
-**TEMPERATURE SENSOR ABSTRACTION LAYER: **
+
+**TEMPERATURE SENSOR ABSTRACTION LAYER:**
 
 Uses the ADC Driver from MCAL using standardised interfaces to trigger ADC.
 ADC Driver call-back once conversion is completed.
